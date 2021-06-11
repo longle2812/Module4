@@ -1,0 +1,4 @@
+model/Dictionary.java
+ model.Dictionary
+controller/DictionaryController.java
+ controller.DictionaryController
