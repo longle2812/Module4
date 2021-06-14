@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="email-validate-maven:war" />
+      <artifact name="spring-timezone-maven:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,11 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5830a4d-1bad-4efb-98af-8fac03cc50c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-timezone-gradle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone-gradle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-main/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +45,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer-management-main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -173,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623637166513</updated>
       <workItem from="1623637168261" duration="1110000" />
-      <workItem from="1623641170559" duration="350000" />
+      <workItem from="1623641170559" duration="667000" />
     </task>
     <servers />
   </component>
