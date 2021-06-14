@@ -5,9 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa0c0a2c-a3d4-4bfc-96bb-29be544638a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SpringGreeting/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringGreeting/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringGreeting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringGreeting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../currency-converter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-converter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/java/com/codegym/controller/SandwichController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandwich-codiment-spring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-timezone-gradle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone-gradle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-timezone-maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone-maven/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,17 +92,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -174,6 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623409853910</updated>
       <workItem from="1623409857179" duration="1373000" />
+      <workItem from="1623654970374" duration="103000" />
     </task>
     <servers />
   </component>
@@ -190,5 +206,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
