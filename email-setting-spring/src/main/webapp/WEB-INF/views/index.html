@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="/layout :: head">
+</head>
+<body>
+
+<div class="container">
+    <form th:method="post" th:object="${email}" novalidate="novalidate">
+        <table>
+            <tr>
+                <th><h1>Settings</h1></th>
+            </tr>
+            <tr>
+                <td>Languages</td>
+                <td>
+                    <select th:field="*{language}">
+                        <option th:each="language: ${languages}"
+                                th:value="${language}"
+                                th:text="${language}"/>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Page Size</td>
+                <td>
+                    Show
+                    <select th:field="*{size}">
+                        <option th:each="size: ${sizes}"
+                                th:value="${size}"
+                                th:text="${size}"
+                        ></option>
+                    </select>
+                    emails per page
+                </td>
+            </tr>
+            <tr>
+                <td>Spams filter:</td>
+                <td>
+                    <input type="checkbox" th:default="false" th:field="*{spamFilter}" th:value="true"/>
+                    <label>Enable spams filter</label>
+                </td>
+            </tr>
+            <tr>
+                <td>Signature:</td>
+                <td> <textarea th:field="*{signature}" th:value="*{signature}"> </textarea></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Update">
+                    <input type="reset" value="Cancel">
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+<footer th:replace="/layout::footer"></footer>
+</body>
+</html>
