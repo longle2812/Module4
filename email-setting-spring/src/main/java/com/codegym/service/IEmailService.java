@@ -1,2 +1,5 @@
-package com.codegym.service;public interface IEmailService {
+package com.codegym.service;
+
+public interface IEmailService {
+
 }

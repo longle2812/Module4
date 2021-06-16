@@ -5,6 +5,7 @@
 <body>
 
 <div class="container">
+    <p th:if="${message}" th:text="${message}"></p>
     <form th:method="post" th:object="${email}" novalidate="novalidate">
         <table>
             <tr>
