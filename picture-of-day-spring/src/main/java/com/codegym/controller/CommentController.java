@@ -1,7 +1,6 @@
 package com.codegym.controller;
 
 import com.codegym.model.Comment;
-import com.codegym.service.HibernateCommentServiceIml;
 import com.codegym.service.ICommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -20,7 +19,7 @@ public class CommentController {
 
     @GetMapping("")
     public String showMain(Model model){
-        List<Comment> commentList = iCommentService.findAll();
+        List<Comment> commentList = iCommentService.findAllWithinDay();
         model.addAttribute("comment", new Comment());
         model.addAttribute("rateList", rateList);
         model.addAttribute("commentList", commentList);
@@ -32,7 +31,7 @@ public class CommentController {
         model.addAttribute("comment", comment);
         iCommentService.save(comment);
         redirectAttributes.addFlashAttribute("rateList", rateList);
-        redirectAttributes.addFlashAttribute("commentList", iCommentService.findAll());
+        redirectAttributes.addFlashAttribute("commentList", iCommentService.findAllWithinDay());
         redirectAttributes.addFlashAttribute("comment", new Comment());
         return "redirect:/main";
     }
@@ -43,7 +42,7 @@ public class CommentController {
         comment.setLike(comment.getLike()+1);
         iCommentService.save(comment);
         redirectAttributes.addFlashAttribute("rateList", rateList);
-        redirectAttributes.addFlashAttribute("commentList", iCommentService.findAll());
+        redirectAttributes.addFlashAttribute("commentList", iCommentService.findAllWithinDay());
         redirectAttributes.addFlashAttribute("comment", new Comment());
         return "redirect:/main";
     }

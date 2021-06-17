@@ -29,8 +29,8 @@ public class HibernateCommentServiceIml implements ICommentService{
     }
 
     @Override
-    public List<Comment> findAll() {
-        String queryStr = "SELECT c FROM Comment AS c";
+    public List<Comment> findAllWithinDay() {
+        String queryStr = "SELECT c FROM Comment AS c WHERE c.timestamp >= current_date";
         TypedQuery<Comment> query = entityManager.createQuery(queryStr, Comment.class);
         return query.getResultList();
     }
