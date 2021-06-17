@@ -1,0 +1,12 @@
+com/codegym/configuration/AppInitialize.java
+ com.codegym.configuration.AppInitialize
+com/codegym/configuration/AppConfiguration.java
+ com.codegym.configuration.AppConfiguration
+com/codegym/service/ICommentService.java
+ com.codegym.service.ICommentService
+com/codegym/controller/CommentController.java
+ com.codegym.controller.CommentController
+com/codegym/model/Comment.java
+ com.codegym.model.Comment
+com/codegym/service/HibernateCommentServiceIml.java
+ com.codegym.service.HibernateCommentServiceIml

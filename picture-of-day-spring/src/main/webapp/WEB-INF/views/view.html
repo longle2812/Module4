@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form th:object="${comment}">
+    <div>
+        <p>Author:</p>
+        <input type="text" th:field="*{author}">
+    </div>
+</form>
+</body>
+</html>
