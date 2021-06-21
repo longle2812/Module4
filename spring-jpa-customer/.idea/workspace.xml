@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e8798f7-931a-485f-9795-fa22fe2d7786" name="Default Changelist" comment="">
+    <list default="true" id="2e8798f7-931a-485f-9795-fa22fe2d7786" name="Default Changelist" comment="[Thực hành] Ứng dụng Quản lý khách hàng: Quản lý tỉnh">
       <change afterPath="$PROJECT_DIR$/../homework-19.6/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homework-19.6/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homework-19.6/.idea/jarRepositories.xml" afterDir="false" />
@@ -64,17 +64,6 @@
       <change afterPath="$PROJECT_DIR$/../homework-20.6/src/main/java/com/codegym/product/service/product/ProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homework-20.6/src/main/webapp/WEB-INF/views/product/create.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homework-20.6/src/main/webapp/WEB-INF/views/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/model/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/IProvinceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/province/IProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/province/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-spring/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-spring/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-spring/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../email-setting-spring/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-setting-spring/.idea/gradle.xml" afterDir="false" />
@@ -112,25 +101,20 @@
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/configuration/AppConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/configuration/AppConfiguration.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/controller/CustomerController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/model/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/repository/ICustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/repository/ICustomerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/repository/IGeneralRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/service/ICustomerService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/service/IGeneralService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/cms/service/IGeneralService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/spring-jpa-customer-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/spring-jpa-customer-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/configuration/AppConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/ProvinceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/IGeneralRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-19.6/src/main/java/com/codegym/product/repository/IGeneralRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/ICustomerService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/IGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/IGeneralService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/customer/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/province/ProvinceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/province/ProvinceService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-jpa-store-procedure/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-jpa-store-procedure/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
@@ -181,6 +165,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -189,9 +178,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -348,8 +337,16 @@
       <updated>1623982841339</updated>
       <workItem from="1623982848682" duration="2161000" />
       <workItem from="1623997980773" duration="7761000" />
-      <workItem from="1624257257566" duration="4175000" />
+      <workItem from="1624257257566" duration="5272000" />
     </task>
+    <task id="LOCAL-00001" summary="[Thực hành] Ứng dụng Quản lý khách hàng: Quản lý tỉnh">
+      <created>1624261638343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624261638343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +366,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[Thực hành] Ứng dụng Quản lý khách hàng: Quản lý tỉnh" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Ứng dụng Quản lý khách hàng: Quản lý tỉnh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
