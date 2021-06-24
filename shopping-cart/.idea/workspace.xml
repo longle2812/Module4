@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7526000d-ce9c-46cf-8fac-fd85900b7af7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception-handler-spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exception-handler-spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.idea/dataSources/b8b10c84-9571-4562-a44d-b9b2d20b93f9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.idea/dataSources/b8b10c84-9571-4562-a44d-b9b2d20b93f9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/configuration/AppConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/configuration/AppConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/controller/CommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/controller/CommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/model/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/model/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/service/HibernateCommentServiceIml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/service/ICommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/classes/java/main/com/codegym/service/ICommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/libs/picture-of-day-spring-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/libs/picture-of-day-spring-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/resources/main/hibernate.conf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/configuration/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/repository/ICommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/repository/ICommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/ICommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/ICommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/IGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/java/com/codegym/service/IGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/webapp/WEB-INF/views/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/webapp/WEB-INF/views/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picture-of-day-spring/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../picture-of-day-spring/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../save-user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../save-user/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-jpa-customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-jpa-customer/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1uNw2Fb0WgXgia8ycBVFRJlEsxv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : shopping-cart-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="efedcc6f-e521-49cc-828b-d446f70bce36" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52077" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : shopping-cart-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7526000d-ce9c-46cf-8fac-fd85900b7af7" name="Default Changelist" comment="" />
+      <created>1624519149831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624519149831</updated>
+      <workItem from="1624519152491" duration="1131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
