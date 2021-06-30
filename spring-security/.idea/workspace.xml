@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="445fbcda-395c-4a21-8d46-c2906cc6d2f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/controller/BlogRestfulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/repository/ICategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/category/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/category/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/security/SecurityInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/build/classes/java/main/com/codegym/product/configuration/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/build/classes/java/main/com/codegym/product/configuration/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/build/libs/homework-20.6-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/build/libs/homework-20.6-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-28.6/src/main/java/com/codegym/product/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-28.6/src/main/java/com/codegym/product/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.idea/dataSources/a0bc3487-4b9a-4c40-a771-f1e466bb7baa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.idea/dataSources/a0bc3487-4b9a-4c40-a771-f1e466bb7baa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/build/classes/java/main/com/codegym/controller/SmartphoneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/build/classes/java/main/com/codegym/controller/SmartphoneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/build/libs/phone-management-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/build/libs/phone-management-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/src/main/java/com/codegym/controller/SmartphoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/src/main/java/com/codegym/controller/SmartphoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone-management/src/main/webapp/WEB-INF/views/phones/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../phone-management/src/main/webapp/WEB-INF/views/phones/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-customer-managament/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-customer-managament/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-customer-managament/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-customer-managament/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.idea/dataSources/4ccfdc74-358a-4623-bca6-26d964ec3699.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.idea/dataSources/4ccfdc74-358a-4623-bca6-26d964ec3699.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/config/AppConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/config/AppConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/controller/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/model/Blog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/model/Blog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/repository/BlogRepositoryIml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/repository/IBlogRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/repository/IBlogRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/repository/IGeneralRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/service/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/service/IBlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/service/IGeneralService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/classes/java/main/com/codegym/blog/service/IGeneralService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/libs/spring-blog-jpa-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/libs/spring-blog-jpa-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/config/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/config/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/model/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/model/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/repository/BlogRepositoryIml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/repository/IBlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/repository/IBlogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/repository/IGeneralRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/blog/BlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/IBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/blog/IBlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/IGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/java/com/codegym/blog/service/IGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-jpa/src/main/webapp/WEB-INF/views/blog/list.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1ueosKjjvpRZg4080qNvYHGF4QP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : spring-security-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="98f95048-07ad-41ad-a6ec-a0b20960387f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58538" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : spring-security-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445fbcda-395c-4a21-8d46-c2906cc6d2f9" name="Default Changelist" comment="" />
+      <created>1625035629870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625035629870</updated>
+      <workItem from="1625035631878" duration="228000" />
+      <workItem from="1625036036808" duration="1474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gradle" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
